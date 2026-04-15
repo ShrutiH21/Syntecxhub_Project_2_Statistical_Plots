@@ -23,10 +23,10 @@ The dataset contains information related to:<br>
  Data Preprocessing<br>
 - Checked null vales,missing data<br>
 - Checked date formats,duplicate values<br>
-<br><br><br>
+<br><br>
  Visualizations Performed<br><br>
 1. Histogram (Sales Distribution)<br>
-Used to understand how sales values are distributed:<br>
+- Used to understand how sales values are distributed:<br>
 - Most values are in lower range<br>
 - Right-skewed distribution observed<br>
 <br>
